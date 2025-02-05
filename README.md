@@ -7,4 +7,4 @@ Se o usuário inserir uma operação inválida ou valores não numéricos, o pro
 - 1. Certifique-se que o Bash está instalado no sistema.
   2. no terminal, navegue ate o diretório onde está o arquivo 'calculadora.sh'
   3. torne o arquivo executável:
-  4. no Bash com o comando chmod +x calculadora.sh
+     no Bash com o comando chmod +x calculadora.sh
