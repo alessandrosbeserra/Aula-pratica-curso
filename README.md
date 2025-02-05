@@ -1,4 +1,4 @@
-# Calculadora
+## Calculadora
 Esse código solicita ao usuário a operação desejada, e os dois números.
 Depois, ele realiza o cálculo e exibe o resultado. 
 Se o usuário inserir uma operação inválida ou valores não numéricos, o programa exibe uma mensagem de erro.
