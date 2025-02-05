@@ -1,8 +1,10 @@
-# Aula-pratica-curso
- Exercicio da aula de git 
-Nesse Código vamos desenvolver uma calculadora
-- Usúario digita uma operação a se fazer
-- Número Inicial
-- Numero final
+# Calculadora
+Esse código solicita ao usuário a operação desejada, e os dois números.
+Depois, ele realiza o cálculo e exibe o resultado. 
+Se o usuário inserir uma operação inválida ou valores não numéricos, o programa exibe uma mensagem de erro.
 
-- ## Para executar o o arquivo abra com o Git Bash no diretorio.
+- # Como executar o Programa.
+- 1. Certifique-se que o Bash está instalado no sistema.
+  2. no terminal, navegue ate o diretório onde está o arquivo 'calculadora.sh'
+  3. torne o arquivo executável:
+  4. no Bash com o comando chmod +x calculadora.sh
